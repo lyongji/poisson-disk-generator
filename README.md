@@ -12,4 +12,6 @@
  - 使用xmake构建。
  - 使用raylib作为图形库。
 
-![](.github\test.png)
+---
+
+![test](.github\test.png)
